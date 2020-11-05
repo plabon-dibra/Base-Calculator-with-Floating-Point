@@ -1,0 +1,13 @@
+Welcome !
+
+Hi, I am Plabon Dibra.
+
+Here is the base calculator not only for integer values but also floating values.
+Here you can transform any based floating values to other bases.
+
+
+The application fully developed by C++ Programming Language.
+
+Enjoy the application!
+
+Thank You.
